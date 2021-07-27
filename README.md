@@ -1,5 +1,8 @@
 <h1 align="center"><b>PASSWARD GENERATOR SRI LANKA BY HIRUWA 🇱🇰</b></h1>
+
 ![logo](https://telegra.ph/file/34f853abffa24ab51290d.jpg)
+
+<p>PASSWORD GENERATOR</p>
 
 ## Termux Users PASSWORD GENERATIR Tool (Owner - HIRUWA | DARK CRIME | Sri Lanka 🇱🇰 
 
