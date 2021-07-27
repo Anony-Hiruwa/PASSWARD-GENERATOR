@@ -1,7 +1,13 @@
 # CODE BY HIRUWA
+from os import system as sys
 import string
 import random
 import time
+
+sys("pip install requests")
+time.sleep(1)
+sys("clear")
+print("INSTALL SUCCESFULL !!.......")
 
 # banner
 def banner():
