@@ -16,6 +16,8 @@
 
 >cd PASSWARD-GENERATOR
 
+>python requirements.py
+
 >python main.py
 
 >Copy Your Passward
