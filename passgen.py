@@ -38,7 +38,8 @@ if __name__ == "__main__":
     s4 = string.punctuation
     time.sleep(1)
     print("" )
-    plen = int(input("Enter password length (Ex : 10 ) :\n")) 
+    plen = int(input("Enter password length (Ex : 10 ) :\n"))
+    print("")
     print("GENERATING YOUR PASSWORD WAIT 1 SECOND !!........")
     time.sleep(1)
     s = []
@@ -46,10 +47,12 @@ if __name__ == "__main__":
     s.extend(list(s2))
     s.extend(list(s3))
     s.extend(list(s4))
+    print("")
     print(  "Your password is : ")
     print("")
     print("".join(random.sample(s, plen)))
     
 #print
+    print("")
     print("<<--ENJOY THIS TOOL 🇱🇰-->>".center(50))
     print("<<--TOOL BY HIRUWA 🇱🇰-->>".center(50))
