@@ -4,11 +4,10 @@ import random
 import time
 from os import system as sys
 
-sys("clear")
 
 def rer() :
-
-
+    
+    sys("clear")
     print( '\033[1;32m' "____   _    ____ ____     ____ _____ _   _" )
     time.sleep( 0.5 )
     print( "|  _ \ / \  / ___/ ___|   / ___| ____| \ | |" )
